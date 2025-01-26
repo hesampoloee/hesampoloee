@@ -30,6 +30,6 @@
 <div style = "display:flex;justify-content: space-evenly; " >
   <img style = "display:flex;justify-content: space-evenly; " src = "https://raw.githubusercontent.com/gist/i330z/76321b8be37cd29720bbaf781c09dbfa/raw/92cbc180c0d91f75a9cec806d6935fc94ff58a26/code.gif" alt= "coding" align = "center" width = "60%" height = "300px">
 
-<img style = "display:flex;justify-content: space-evenly; " src = "https://b1694534.smushcdn.com/1694534/wp-content/uploads/2021/06/12-1.png?lossy=1&strip=1&webp=1" alt= "coding" align = "center" width = "39%" height = "300px">
+<img style = "display:flex;justify-content: space-evenly; " src = "https://b1694534.smushcdn.com/1694534/wp-content/uploads/2021/06/12-1.png?lossy=1&strip=1&webp=1" alt= "coding" align = "center" width = "35%" height = "300px">
 </div>
 
